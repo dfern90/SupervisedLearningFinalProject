@@ -9,7 +9,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn import preprocessing
 from sklearn.neighbors import NearestNeighbors
 
-#This first block imports our data
+#Imports our data
 #Adjust the paths as needed
 df1 = pd.read_csv('data/tmdb_5000_movies.csv')
 df2 = pd.read_csv('data/tmdb_5000_credits.csv')
