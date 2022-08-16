@@ -1,2 +1,0 @@
-# SupervisedLearningFinalProject 
- Machine Learning Project
